@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I’m Shouvik Banik  
 
-<!--
-**Shouvik-banik-0/Shouvik-banik-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building **educational tools, circuits, and software projects**.  
+💡 Exploring the mix of **Programming, Electronics, and Learning by Doing**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Languages:** PHP, Python, C, JavaScript  
+- **Hardware:** Arduino, Electronics Circuits, Microcontrollers  
+- **Tools:** Git, VS Code, MATLAB, Proteus  
+
+---
+
+### 📌 Featured Projects  
+- 🎓 **EduFlow** – PHP-based educational dashboard with assignments, quizzes, and course management  
+- 🔢 **Flash ADC with Arduino** – LM324 + 74148 priority encoder + 7-segment display  
+- 📖 *More projects coming soon...*  
+
+---
+
+### 🌱 Currently Learning  
+- Advanced PHP & Laravel  
+- Data Structures & Algorithms  
+- Circuit Design & Microcontrollers  
+
+---
+
+### 📫 Connect with Me  
+- ✉️ Email: *your email here*  
+- 🌐 LinkedIn: *your LinkedIn link here*  
+
+---
+
+⭐ *"Always learning, always building."*  
